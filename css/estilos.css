@@ -1,0 +1,60 @@
+h1 {
+	width: 1080px;
+	height: 50px;
+	background:#D35400;
+	color:white;
+	font-size:40px;
+	padding:20px;
+	position:absolute;
+	top:25px;
+	left:130px;
+}
+.cuadro{
+	background:#154360;
+	color:white;
+	padding:6px;
+	width:700px;
+	height:213px;
+	position:absolute;
+	left:130px;
+	top:150px
+}
+.cv{
+	position:absolute;
+	left:850px;
+	top:150px
+}
+h3{
+	color:white
+}
+
+.mas{
+	background:#154360;
+	width:388px;
+	color:white;
+	height:445px;
+	padding:6px;
+	position:absolute;
+	top:380px;	
+	left:850px;
+}
+.sinto{
+	position:absolute;
+	left:130px;
+	top:390px;
+}
+.h{
+	width: 1080px;
+	height: 50px;
+	background:#D35400;
+	color:white;
+	font-size:40px;
+	padding:20px;
+	position:absolute;
+	top:840px;
+	left:130px;
+}
+a[href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses#:~:text=symptoms"]{
+	color:white
+}
+
